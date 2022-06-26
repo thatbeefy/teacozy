@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica, sans-sarif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+.header {
+    max-height: 69px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    
+}
+.teacozy {
+    margin-left: 10px;
+    
+}
+.navbutton a {
+    text-decoration: underline;
+    padding: 10px;
+    display: inline-flex;
+    align-items: center;
+}
