@@ -30,7 +30,7 @@
 }
 .mission-container {
     margin:70px 20px 0px;
-    background-image: url("/img-mission-background.jpg");
+    background-image: url("./img-mission-background.jpg");
     height: 700px;
     width: 1200px;
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ margin-left: 20px;
     text-align: left;
 }
 .location-container {
-    background-image: url("/img-locations-background.jpg");
+    background-image: url("./img-locations-background.jpg");
     height: 500px;
     width: 1200px;
     background-size: cover;
